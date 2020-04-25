@@ -8,3 +8,6 @@ Michelle Kutsanov: Researching how to integrate python code with Chrome extensio
 Corey McCrea: Understanding integration with the Todoist API.
 
 Kyle Burack: Learning how to create a Chrome extension.
+
+## Resources
+https://www.youtube.com/watch?v=wHZCYi1K664&t=1324s
