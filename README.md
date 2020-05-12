@@ -9,6 +9,8 @@ Corey McCrea: Understanding integration with the Todoist API.
 
 Kyle Burack: Learning how to create a Chrome extension.
 
+*Note: Most of this was able to be done collaboratively through Zoom calls (sharing screens) and Teletype through ATOM which allows us to work on the same files at the same time. 
+
 ## Instructions for installing components / Using the extension
 Once you run popup.html, the Chrom extension is automatically added to your Chrome location bar at the top. To give the 
 extension access to your Canvas information, replace the token in popup.js with your own access token. Then you should be 
