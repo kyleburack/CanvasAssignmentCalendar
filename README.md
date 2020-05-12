@@ -16,3 +16,5 @@ good to go!
 
 ## Resources
 https://www.youtube.com/watch?v=wHZCYi1K664&t=1324s
+https://www.youtube.com/watch?v=9Tl3OmwrSaM
+https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
