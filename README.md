@@ -20,3 +20,4 @@ good to go!
 https://www.youtube.com/watch?v=wHZCYi1K664&t=1324s
 https://www.youtube.com/watch?v=9Tl3OmwrSaM
 https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
+https://medium.com/@osiolabs/read-write-json-files-with-node-js-92d03cc82824 
